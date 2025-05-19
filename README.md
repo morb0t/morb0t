@@ -30,6 +30,4 @@ I'm an embedded systems engineer passionate about IoT, electronics, and full-sta
 
 <div width="100%" align="center"><a href="https://github.com/morb0t/TSL2561-library" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=morb0t&repo=TSL2561-library&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/morb0t/emb-project-HMI" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=morb0t&repo=emb-project-HMI&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
 <div width="100%" align="center"><a href="https://github.com/morb0t/OS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=morb0t&repo=OS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/morb0t/Projet_CM33" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=morb0t&repo=Projet_CM33&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
